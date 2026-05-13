@@ -1,4 +1,4 @@
-# Análisis de Movilidad y Modelado de Tiempos - Bogotá 🇨🇴lombia
+# Análisis de Movilidad y Modelado de Tiempos - Bogotá-Colombia
 
 Este repositorio contiene un estudio detallado sobre la **Encuesta de Movilidad de Bogotá**, desarrollado como parte de la Maestría en Big Data y Data Science. El objetivo principal es caracterizar los patrones de viaje y modelar los factores que influyen en la duración de los desplazamientos en la ciudad.
 
